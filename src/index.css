@@ -112,6 +112,18 @@ ul {
   color: #FBB;
 }
 
+h1 {
+  color: pink;
+}
+
+#medal {
+  color: ;
+}
+
+#weight {
+  font-size: 20px;
+}
+
 .minPigTile {
   width: 250px;
   height: 250px;
